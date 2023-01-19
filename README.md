@@ -1,2 +1,13 @@
 # student_management_system
-Student Management System using Spring Boot and Hibernate
+ReactJS, Spring Boot CRUD Full Stack Application
+
+Using MySQL and Hibernate
+
+Student Management System
+
+  CRUD features:
+    create student,
+    list student,
+    update student,
+    delete student,
+    view student
